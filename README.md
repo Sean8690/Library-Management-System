@@ -1,6 +1,6 @@
 # Library-Management-System/ASP.NET CORE 3.1
 
-Library-Management-System is a Web Application built with ASP.NET CORE 3.1,the app allows users to 
+Library-Management-System is a Web Application built with ASP.NET CORE 3.1 the app allows users to 
 
 1- View Library Catalog, Patrons, Bracnches.
 
