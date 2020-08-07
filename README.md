@@ -9,3 +9,12 @@ Library-Management-System is a Web Application built with ASP.NET CORE 3.1 - the
 3- Can see Patron's informaton, library member of,, fees due Assets currently on hold and checked out  
 
 4- View branch information like address, photo, hours of operations, number of patrons, assets and value of assets 
+
+
+#Getting Started 
+
+1- Install .NET CORE 3.1
+
+2- In appsettings.json set name of the serve 
+
+3- Cd into Library then run dotnet run
