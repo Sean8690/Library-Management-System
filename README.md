@@ -10,8 +10,7 @@ Library-Management-System is a Web Application built with ASP.NET CORE 3.1 - the
 
 4- View branch information like address, photo, hours of operations, number of patrons, assets and value of assets 
 
-
-#Getting Started 
+## Getting Started 
 
 1- Install .NET CORE 3.1
 
