@@ -22,7 +22,7 @@ namespace Library
                 var services = scope.ServiceProvider;
                 try
                 {
-                    var context = services.GetRequiredService<DataContext>();
+                    var context = services.GetRequiredService<LibraryDbContext>();
                     context.Database.Migrate();
                 }
                 catch (Exception ex)
