@@ -14,6 +14,6 @@ Library-Management-System is a Web Application built with ASP.NET CORE 3.1 - the
 
 1- Install .NET CORE 3.1
 
-2- In appsettings.json set name of the serve 
+2- In appsettings.json set name of the server 
 
-3- Cd into Library then run dotnet run command
+3- Cd into Library then run `dotnet run` command
